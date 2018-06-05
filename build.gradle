@@ -35,10 +35,18 @@ ext{
     //app dependencies
     supprtLibraryVersion = '27.1.1'
     constraintLibraryVersion = '1.1.0'
+    placeholderviewVersion = '0.6.1'
+
+    //RxJava Library dependency
+    rxjava2Version = '2.0.6'
+    rxandroidVersion = '2.0.1'
 
     //Retrofit Library dependencies
     retrofitLibraryVersion = '2.3.0'
+    intercepterLibraryVersion = '3.9.1'
 
+    //fresco library dependency
+    frescoLibraryVersion = '1.8.1'
 
     //Testing dependencies
     jUnitLibraryVersion = '4.12'
